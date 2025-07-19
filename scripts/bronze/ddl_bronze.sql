@@ -17,7 +17,7 @@ CREATE TABLE bronze.crm_cust_info (
     cst_key VARCHAR(50),
     cst_firstname TEXT,
     cst_lastname TEXT,
-    cst_material_status VARCHAR(50),
+    cst_marital_status VARCHAR(50),
     cst_gndr VARCHAR(50),
     cst_create_date DATE
 );
